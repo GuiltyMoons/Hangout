@@ -1,0 +1,5 @@
+{
+  "Comment": "Include your own discord bot TOKEN",
+  "token": "",
+  "prefix": "!"
+}
